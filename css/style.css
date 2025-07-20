@@ -116,12 +116,13 @@ section {
 .home {
     min-height: 100vh;
     padding-top: 12rem;
-    background: url(../image/home-bg.jpg) no-repeat;
+    background: url(../image/ChatGPT\ Image\ Jul\ 20\,\ 2025\,\ 09_50_12\ AM.png) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .home .row {
+    margin-top: 10rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -167,7 +168,7 @@ section {
 }
 
 .home .image-slider img {
-    height: 9rem;
+    height: 20rem;
     margin: 0 .5rem;
     cursor: pointer;
     margin-top: 5rem;
@@ -253,7 +254,7 @@ section {
 /* MENU */
 
 .menu {
-    background: url(../image/menu-bg.jpg) no-repeat;
+    background: url(../image/ChatGPT\ Image\ Jul\ 20\,\ 2025\,\ 09_50_12\ AM.png) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -393,7 +394,7 @@ section {
 /* BOOK */
 
 .book {
-    background: url(../image/book-bg.jpg);
+    background: url(../image/ChatGPT\ Image\ Jul\ 20\,\ 2025\,\ 09_50_12\ AM.png);
     background-position: center;
     background-size: cover;
 }
